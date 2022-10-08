@@ -1,0 +1,29 @@
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property Rental App.csproj.AssemblyReference.cache
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.frm_Home.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.frm_About.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.frm_Administrator_Sign.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.frm_Admin_Menu_Page.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.frm_Tenant_Menu.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.frm_Tenant_Sign.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.Properties.Resources.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.ucAbout.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.uc_Agency.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.uc_Agent.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.uc_City.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.uc_Property.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.uc_PropertyAgent.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.uc_PropertyType.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.uc_Province.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property_Rental_App.uc_Suburb.resources
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property Rental App.csproj.GenerateResource.cache
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property Rental App.csproj.CoreCompileInputs.cache
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\bin\Debug\Property Rental App.exe.config
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\bin\Debug\Property Rental App.exe
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\bin\Debug\Property Rental App.pdb
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\bin\Debug\BLL.dll
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\bin\Debug\DAL.dll
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\bin\Debug\BLL.pdb
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\bin\Debug\DAL.pdb
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property Rental App.csproj.CopyComplete
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property Rental App.exe
+C:\Users\siyabonga\source\repos\Property Rental App\Property Rental App\obj\Debug\Property Rental App.pdb
